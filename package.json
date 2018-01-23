@@ -1,0 +1,29 @@
+{
+  "name": "logagent-apple-location",
+  "version": "1.0.0",
+  "description": "Logagent plugin to track GPS position of Apple devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megastef/logagent-apple-location.git"
+  },
+  "keywords": [
+    "find-my-iphone",
+    "Logagent",
+    "Sematext",
+    "GPS"
+  ],
+  "author": "Stefan Thies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megastef/logagent-apple-location/issues"
+  },
+  "homepage": "https://github.com/megastef/logagent-apple-location#readme",
+  "dependencies": {
+    "fast-safe-stringify": "^2.0.2",
+    "find-my-iphone": "^1.1.1"
+  }
+}
