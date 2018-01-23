@@ -1,6 +1,6 @@
 {
   "name": "logagent-apple-location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logagent plugin to track GPS position of Apple devices",
   "main": "index.js",
   "scripts": {
