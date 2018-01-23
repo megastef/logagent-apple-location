@@ -1,6 +1,6 @@
 # Logagent plugin: logagent-apple-location
 
-Logagent plugin to track GPS position of Apple devices. Beside the 
+Logagent plugin to track the GPS position of Apple devices using the find-my-iphone API. 
 
 
 ## install Logagent & plugin
